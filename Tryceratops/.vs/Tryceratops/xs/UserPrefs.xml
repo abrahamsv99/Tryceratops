@@ -1,13 +1,15 @@
 ﻿<Properties StartupConfiguration="{7BA2A00D-9C52-4529-8606-92AA8E9338AA}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebsocketMessageExtension.cs">
     <Files>
-      <File FileName="Program.cs" Line="19" Column="65" />
+      <File FileName="WebsocketMessageExtension.cs" Line="6" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Tryceratops" expanded="True">
-            <Node name="Tryceratops" selected="True" />
+          <Node name="Tryceratops">
+            <Node name="Tryceratops">
+              <Node name="WebsocketMessageExtension.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
